@@ -1,0 +1,11 @@
+.header{
+		height:51px;
+		background:url("../../imgs/bg-qustion-top.png")no-repeat top center;
+		background-size:80% auto;
+		margin-top:30px;
+		line-height:33px;
+	}
+	.split_line{
+		height:66px;
+		background:url("../../imgs/bg-question-center.png")no-repeat center top;
+		background-size:80% auto;
